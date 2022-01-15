@@ -1,0 +1,34 @@
+2021-12-11 22:29:31: <br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\frame_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrspec.php</b> on line <b>568</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_0\mask_37_0.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_1\mask_37_1.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_2\mask_37_2.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_3\mask_37_3.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_4\mask_37_4.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_5\mask_37_5.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_6\mask_37_6.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
+<br />
+<b>Warning</b>:  mkdir(): No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>154</b><br />
+<br />
+<b>Warning</b>:  file_put_contents(C:\xampp\htdocs\UserSpice53\readqr\cache\mask_7\mask_37_7.dat): failed to open stream: No such file or directory in <b>C:\xampp\htdocs\UserSpice53\readqr\qrmask.php</b> on line <b>155</b><br />
